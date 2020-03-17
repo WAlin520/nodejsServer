@@ -1,0 +1,2 @@
+webpackJsonp([15],{"/K8k":function(e,n){},"7q8k":function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement,n=this._self._c||e;return n("div",{staticClass:"loading-div"},[n("mt-spinner",{staticClass:"loading-spinner",attrs:{type:"snake",color:"red"}})],1)},staticRenderFns:[]};var r=t("VU/8")({name:"loadComponent",data:function(){return{}},created:function(){},methods:{}},a,!1,function(e){t("/K8k")},null,null);n.default=r.exports}});
+//# sourceMappingURL=15.40c66d05afbc6d18164a.js.map
