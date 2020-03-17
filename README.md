@@ -1,11 +1,15 @@
 # server for my-vue-project
 
 ## install dependencies
+```
 npm install
+```
 
 ## serve with hot reload at localhost:8090
+```
 cd server
 node index.js
+```
 
 ###   简易的服务器
 
