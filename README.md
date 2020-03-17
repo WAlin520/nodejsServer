@@ -8,6 +8,7 @@ npm install
 ## serve with hot reload at localhost:8090
 ```
 cd server
+
 node index.js
 ```
 
