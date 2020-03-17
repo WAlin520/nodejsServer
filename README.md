@@ -23,6 +23,7 @@ app文件夹下放置资源，index.html是默认页面文件，将my-vue-projec
 1. express托管静态文件
 2. 正则匹配前端路由（HTML5模式）
 3. 轮播图的接口，返回的json包含了img属性是图片的src，同时对应app文件夹内的路径
+4. 使用文件压缩
 
 
 
