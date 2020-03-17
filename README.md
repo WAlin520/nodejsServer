@@ -15,11 +15,7 @@ node index.js
 
 ###   简易的服务器
 
-server文件夹内的index.js是服务器的入口，进入之后通过
-```
-node index.js
-```
-开启服务
+server文件夹内的index.js是服务器的入口
 
 app文件夹下放置资源，index.html是默认页面文件，将my-vue-project项目构建成功后的dist文件夹下的文件放置进来即可。
 
