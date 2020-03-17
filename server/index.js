@@ -42,7 +42,7 @@ if(platform.match(/^[win]/)){
 }else{
   throw err;
 }
-var imgLunbotuDir = 'imgResource'; //图片文件夹
+var imgLunbotuDir = 'imgResource/lunbotu'; //图片文件夹
 function getImgUrl(rootdir, imgdir){
   var dirpath = path.resolve(rootdir, imgdir);
   var dirpath_parse = path.parse(dirpath);
